@@ -1,6 +1,3 @@
-from math import factorial as fc
-
-
 def caminho_minimo(matriz, taxa, origem, destino):
     # inicializacoes
     origem -= 1
